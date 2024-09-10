@@ -1,6 +1,8 @@
-# api-clinica-medica
+# clinica medica
 
-Criar um projeto:
+Criar um projeto: Em API Rest com o spring boot
+
+Acessar o seguinte site: https://start.spring.io/
 
 Escolher
 - Maven
@@ -21,3 +23,7 @@ Usar as seguintes Dependências
 - Spring Web
 
 Para gerar o projeto clique em GENERATE
+
+## Fluxo do projeto
+- [Hello World](https://github.com/danilo-cardilli/clinicamedica/tree/main/src/main/java/com/clinica/clinicamedica/controller)
+- [Enviando dados para a API](README_enviando_dados_API.md) 
