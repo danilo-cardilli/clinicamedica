@@ -27,3 +27,4 @@ Para gerar o projeto clique em GENERATE
 ## Fluxo do projeto
 - [Hello World](https://github.com/danilo-cardilli/clinicamedica/tree/main/src/main/java/com/clinica/clinicamedica/controller)
 - [Enviando dados para a API](README_enviando_dados_API.md) 
+- [Recebendo dados na API](README_recebendo_dados_API.md)
