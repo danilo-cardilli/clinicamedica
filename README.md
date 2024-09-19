@@ -29,3 +29,4 @@ Para gerar o projeto clique em GENERATE
 - [Enviando dados para a API](README_enviando_dados_API.md) 
 - [Recebendo dados na API](README_recebendo_dados_API.md)
 - [DTO com Java Record](README_DTO_java_record.md)
+- [Adicionando dependências](README_adicionando_dependencias.md)
