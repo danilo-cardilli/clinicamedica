@@ -20,5 +20,4 @@ Seleciona e copia as dependências que serão usada e coloca no arquivo pom.xml
 Execute o prjeto "OCORRE UM ERRO"
 Temos que configurar 
 
-- conexão com o banco de dados no arquivo application.properties
-- 
+- conexão com o banco de dados no arquivo application.properties.
