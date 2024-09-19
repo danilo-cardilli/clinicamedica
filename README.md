@@ -30,3 +30,4 @@ Para gerar o projeto clique em GENERATE
 - [Recebendo dados na API](README_recebendo_dados_API.md)
 - [DTO com Java Record](README_DTO_java_record.md)
 - [Adicionando dependências](README_adicionando_dependencias.md)
+- [Entidades JPA](README_Entidades_JPA.md)
