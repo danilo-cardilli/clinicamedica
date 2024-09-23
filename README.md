@@ -31,3 +31,4 @@ Para gerar o projeto clique em GENERATE
 - [DTO com Java Record](README_DTO_java_record.md)
 - [Adicionando dependências](README_adicionando_dependencias.md)
 - [Entidades JPA](README_Entidades_JPA.md)
+- [Interfaces Repository](README_Interfaces_Repository.md) 
