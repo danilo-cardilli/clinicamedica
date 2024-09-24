@@ -32,3 +32,4 @@ Para gerar o projeto clique em GENERATE
 - [Adicionando dependências](README_adicionando_dependencias.md)
 - [Entidades JPA](README_Entidades_JPA.md)
 - [Interfaces Repository](README_Interfaces_Repository.md) 
+- [Migrations com Flyway](README_Migrations_Flyway.md)
