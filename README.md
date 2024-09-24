@@ -33,3 +33,4 @@ Para gerar o projeto clique em GENERATE
 - [Entidades JPA](README_Entidades_JPA.md)
 - [Interfaces Repository](README_Interfaces_Repository.md) 
 - [Migrations com Flyway](README_Migrations_Flyway.md)
+- [Validação com Bean Validation](README_Validacao_Bean_Validation.md)
