@@ -39,3 +39,4 @@ Para gerar o projeto clique em GENERATE
 - [Testando a listagem](README_Testando_listagem.md)
 - [Paginação](README_Paginacao.md)
 - [Ordenação](README_Ordenacao.md)
+- [Requisições PUT](README_Requisicoes_PUT.md)
