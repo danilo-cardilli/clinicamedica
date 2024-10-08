@@ -38,3 +38,4 @@ Para gerar o projeto clique em GENERATE
 - [Produção de dados na API](README_Producao_dados_API.md)
 - [Testando a listagem](README_Testando_listagem.md)
 - [Paginação](README_Paginacao.md)
+- [Ordenação](README_Ordenacao.md)
