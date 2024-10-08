@@ -7,6 +7,8 @@ import com.clinica.clinicamedica.medico.MedicoRepository;
 import jakarta.transaction.Transactional;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -24,7 +26,7 @@ public class MedicoController {
         repository.save(new Medico(dados));
     }
     @GetMapping
-    public List<DadosListagemMedico> listar() {
-        return repository.findAll().stream().map(DadosListagemMedico::new).toList();
+    public Page<DadosListagemMedico> listar(Pageable paginacao) {
+        return repository.findAll(paginacao).map(DadosListagemMedico::new);
     }
 }
