@@ -41,3 +41,4 @@ Para gerar o projeto clique em GENERATE
 - [Ordenação](README_Ordenacao.md)
 - [Requisições PUT](README_Requisicoes_PUT.md)
 - [Atualizando dados](README_Atualizando_dados.md)
+- [Requisições DELETE](README_Requisicoes_DELETE.md)
