@@ -1,9 +1,6 @@
 package com.clinica.clinicamedica.controller;
 
-import com.clinica.clinicamedica.medico.DadosCadastroMedico;
-import com.clinica.clinicamedica.medico.DadosListagemMedico;
-import com.clinica.clinicamedica.medico.Medico;
-import com.clinica.clinicamedica.medico.MedicoRepository;
+import com.clinica.clinicamedica.medico.*;
 import jakarta.transaction.Transactional;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -31,7 +28,8 @@ public class MedicoController {
     }
     @PutMapping
     @Transactional
-    public void atualizar(@RequestBody @Valid DadosCadastroMedico dados) {
-
+    public void atualizar(@RequestBody @Valid DadosAtualizacaoMedico dados) {
+        var medico = repository.getReferenceById(dados.id());
+        medico.atualizarInformacoes(dados);
     }
 }
