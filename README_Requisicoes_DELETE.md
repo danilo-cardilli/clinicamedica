@@ -13,6 +13,3 @@ Codigo da exclusão fisica
     }
 ````
 
-Codigo da exclusão logica
-````
-````
