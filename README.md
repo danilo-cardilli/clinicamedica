@@ -44,3 +44,4 @@ Para gerar o projeto clique em GENERATE
 - [Requisições DELETE](README_Requisicoes_DELETE.md)
 - [Exclusão lógica](README_Exclusao_logica.md)
 - [Padronizando retornos da API](README_Padronizando_retornos_API.md)
+- [Devolvendo o código HTTP 201](README_Devolvendo_codigo_HTTP_201.md)
