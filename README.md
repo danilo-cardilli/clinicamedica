@@ -43,3 +43,4 @@ Para gerar o projeto clique em GENERATE
 - [Atualizando dados](README_Atualizando_dados.md)
 - [Requisições DELETE](README_Requisicoes_DELETE.md)
 - [Exclusão lógica](README_Exclusao_logica.md)
+- [Padronizando retornos da API](README_Padronizando_retornos_API.md)
