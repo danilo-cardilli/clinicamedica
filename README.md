@@ -46,3 +46,4 @@ Para gerar o projeto clique em GENERATE
 - [Padronizando retornos da API](README_Padronizando_retornos_API.md)
 - [Devolvendo o código HTTP 201](README_Devolvendo_codigo_HTTP_201.md)
 - [Detalhando dados na API](README_Detalhando_dados_API.md)
+- [Lidando com erros na API](README_Lidando_erros_API.md)
