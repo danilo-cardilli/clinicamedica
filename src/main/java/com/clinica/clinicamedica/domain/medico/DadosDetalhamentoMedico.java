@@ -1,6 +1,6 @@
-package com.clinica.clinicamedica.medico;
+package com.clinica.clinicamedica.domain.medico;
 
-import com.clinica.clinicamedica.endereco.Endereco;
+import com.clinica.clinicamedica.domain.endereco.Endereco;
 
 public record DadosDetalhamentoMedico(Long id, String nome, String email, String crm, String telefone, Especialidade especialidade, Endereco endereco) {
     public DadosDetalhamentoMedico(Medico medico) {

@@ -1,6 +1,6 @@
 package com.clinica.clinicamedica.controller;
 
-import com.clinica.clinicamedica.medico.*;
+import com.clinica.clinicamedica.domain.medico.*;
 import jakarta.transaction.Transactional;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,8 +10,6 @@ import org.springframework.data.web.PageableDefault;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.util.UriComponentsBuilder;
-
-import java.util.List;
 
 @RestController
 @RequestMapping("medicos")
@@ -40,7 +38,6 @@ public class MedicoController {
         var medico = repository.getReferenceById(dados.id());
         medico.atualizarInformacoes(dados);
         return ResponseEntity.ok(new DadosDetalhamentoMedico(medico));
-
     }
 
     @DeleteMapping("/{id}")

@@ -47,3 +47,4 @@ Para gerar o projeto clique em GENERATE
 - [Devolvendo o código HTTP 201](README_Devolvendo_codigo_HTTP_201.md)
 - [Detalhando dados na API](README_Detalhando_dados_API.md)
 - [Lidando com erros na API](README_Lidando_erros_API.md)
+- [Tratando erro 404](README_Tratando_erro_404.md)

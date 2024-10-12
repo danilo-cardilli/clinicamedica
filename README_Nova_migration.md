@@ -8,7 +8,7 @@ Nesse caso vamos voltar para classe **DadosCadastroMedico** e colocar o atributo
 ````
 package com.clinica.clinicamedica.medico;
 
-import com.clinica.clinicamedica.endereco.DadosEndereco;
+import com.clinica.clinicamedica.domain.endereco.DadosEndereco;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
@@ -39,7 +39,7 @@ e alteramos o metodo **Medico**
 ````
 package com.clinica.clinicamedica.medico;
 
-import com.clinica.clinicamedica.endereco.Endereco;
+import com.clinica.clinicamedica.domain.endereco.Endereco;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;

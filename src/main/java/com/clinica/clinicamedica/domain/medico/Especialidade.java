@@ -1,4 +1,4 @@
-package com.clinica.clinicamedica.medico;
+package com.clinica.clinicamedica.domain.medico;
 
 public enum Especialidade {
     ORTOPEDIA,

@@ -1,6 +1,6 @@
-package com.clinica.clinicamedica.medico;
+package com.clinica.clinicamedica.domain.medico;
 
-import com.clinica.clinicamedica.endereco.Endereco;
+import com.clinica.clinicamedica.domain.endereco.Endereco;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;

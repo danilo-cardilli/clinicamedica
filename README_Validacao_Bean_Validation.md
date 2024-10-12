@@ -4,7 +4,7 @@ Na classe MedicoController
 Para fazer a validação vamos ate a classe que esta sendo recibido no metodo cadastrar
 A classe **DadosCadastroMedico**
 ```
-import com.clinica.clinicamedica.endereco.DadosEndereco;
+import com.clinica.clinicamedica.domain.endereco.DadosEndereco;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
@@ -59,9 +59,9 @@ E coloque uma notação no metodo cadastrar
 
 package com.clinica.clinicamedica.controller;
 
-import com.clinica.clinicamedica.medico.DadosCadastroMedico;
-import com.clinica.clinicamedica.medico.Medico;
-import com.clinica.clinicamedica.medico.MedicoRepository;
+import com.clinica.clinicamedica.domain.medico.DadosCadastroMedico;
+import com.clinica.clinicamedica.domain.medico.Medico;
+import com.clinica.clinicamedica.domain.medico.MedicoRepository;
 import jakarta.transaction.Transactional;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;

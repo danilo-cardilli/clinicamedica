@@ -1,6 +1,6 @@
-package com.clinica.clinicamedica.medico;
+package com.clinica.clinicamedica.domain.medico;
 
-import com.clinica.clinicamedica.endereco.DadosEndereco;
+import com.clinica.clinicamedica.domain.endereco.DadosEndereco;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
