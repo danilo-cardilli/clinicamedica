@@ -53,3 +53,4 @@ Para gerar o projeto clique em GENERATE
 - [Entidade usuário e migration](README_Entidade_usuario_migration.md)
 - [Repository e Service](README_Repository_Service.md)
 - [Configurações de segurança](README_Configuracoes_seguranca.md)
+- [Controller de autenticação]
