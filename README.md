@@ -55,3 +55,4 @@ Para gerar o projeto clique em GENERATE
 - [Configurações de segurança](README_Configuracoes_seguranca.md)
 - [Controller de autenticação](README_Controller_autenticação.md)
 - [Adicionando a lib auth0 jwt](README_Adicionando_lib_auth0_jwt.md)
+- [Gerando tokens JWT](README_Gerando_tokens_JWT.md)
