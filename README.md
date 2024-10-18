@@ -57,3 +57,4 @@ Para gerar o projeto clique em GENERATE
 - [Adicionando a lib auth0 jwt](README_Adicionando_lib_auth0_jwt.md)
 - [Gerando tokens JWT](README_Gerando_tokens_JWT.md)
 - [Ajustes na geração do token](README_Ajustes_geracao_token.md)
+- [Criando o filter de segurança](README_Criando_filter_seguranca.md)
