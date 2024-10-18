@@ -58,3 +58,4 @@ Para gerar o projeto clique em GENERATE
 - [Gerando tokens JWT](README_Gerando_tokens_JWT.md)
 - [Ajustes na geração do token](README_Ajustes_geracao_token.md)
 - [Criando o filter de segurança](README_Criando_filter_seguranca.md)
+- [Recuperando o token](README_Recuperando_token.md)
